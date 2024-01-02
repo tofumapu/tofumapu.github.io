@@ -1,2 +1,2 @@
-# tofumapu.github.io
+tofumapu.github.io
 Tofu's website
